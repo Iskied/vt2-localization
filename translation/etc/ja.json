@@ -2906,5 +2906,10 @@
     "search_keywords_melee": "",
     "name_grudge_minotaur_002": "",
     "name_grudge_stormfiend_009": "",
-    "name_grudge_troll_005": ""
+    "name_grudge_troll_005": "",
+    "datetime_hours_short": "",
+    "datetime_minutes_short": "",
+    "datetime_days": "",
+    "datetime_seconds_short": "",
+    "search_keywords_trinket": ""
 }
