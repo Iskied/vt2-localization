@@ -635,7 +635,7 @@
     "matchmaking_status_start_hosting_game": "게임을 호스트 합니다...",
     "quest_daily_kill_elites_desc": "파티로 정예병 %d명 처치하기",
     "tutorial_pickup_barrel": "화약통 들기",
-    "markus_questing_knight_parry_increased_power_desc": "빠른 방어 시 힘 수치가 %d%% 증가하며, %d초간 지속됩니다.",
+    "markus_questing_knight_parry_increased_power_desc": "순간 방어 시 힘 수치가 %d%% 증가하며, %d초간 지속됩니다.",
     "challenge_description_find_tome_01": "고서 찾기",
     "chaos_exalted_champion_norsca": "문지기 나글파르",
     "menu_weave_forge_tooltip_upgrade_talent_slot": "탤런트 슬롯",
