@@ -200,7 +200,7 @@
     "pes_gk_gameplay_killing_a_chaos_wizard_leech_04": "리치 놈을 처리했네, 친우들이여!",
     "pwe_st_arena_citadel_final_04": "날 실망시키지마, 핏덩이들아!",
     "pes_gk_gameplay_standard_bearer_has_planted_standard_04": "저 깃발을 부수게나, 친우들이여!",
-    "pes_gk_gameplay_soldier_3_special_kills_in_a_row_01_reply_02": "복무니까 하는거라네, 농노여. 우리가 머리를 부수는 이유는 같다네.",
+    "pes_gk_gameplay_soldier_3_special_kills_in_a_row_01_reply_02": "복무니까 하는 겁니다, 농노 나리. 저희가 골통을 부수는 이유는 같지 않습니까.",
     "pes_gk_level_helmgart_military_prepare_02": "준비하게, 친우들이여. 종을 울리기 전까지 말이네. 곧 놈들과 맞설 거라네.",
     "pes_gk_morris_ritual_start_03": "저 의식은 성배의 힘에 비해면 아무것도 아니야!",
     "pwe_st_morris_loading_conversation_alpha_one_01": "고깃덩이들아, 너희는 네 어둠의 신들 중에 누구를 가장 증오해?",
@@ -231,5 +231,11 @@
     "pes_gk_morris_arena_survive_05": "너희 상대는 바로 이 망할 성배 기사시다!",
     "pes_gk_gameplay_hunter_potions_above_half_health_02": "여제님의 선물을 낭비하지 마시죠!",
     "pes_gk_gameplay_hearing_a_Skaven_warpfire_thrower_combat_04": "여제님의 황금 자물쇠시여! 불꽃쥐다!",
-    "pwe_st_gameplay_special_enemy_kill_melee_10": "놈이 죽은거 같은데,고깃덩이들아."
+    "pwe_st_gameplay_special_enemy_kill_melee_10": "놈이 죽은거 같은데,고깃덩이들아.",
+    "interaction_action_grab": "잡기",
+    "pes_gk_crawl_drunk_knocked_down_02": "누구 나 좀 도와줄래? 친우들?",
+    "interaction_action_drink": "마시기",
+    "pes_gk_gameplay_spots_bomb_21": "화약이 여기 있네, 친우들.",
+    "interaction_wine_barrel": "큰 와인 술통",
+    "pes_gk_crawl_drunk_buff_wears_off_07": "이 오랜 친우 크루버에게 술 좀 갖다주겠나?"
 }
