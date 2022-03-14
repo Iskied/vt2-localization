@@ -231,5 +231,20 @@
     "sig_snare_b_title": "反射のピット",
     "tooltip_playerlist_build_privacy": "装備とタレントの秘密\nプレイヤーリストのメニューにて、装備とタレントを管理できる人を制限できます。\nプライベート",
     "visibility_public": "パブリック",
-    "wh_priest": "ウォーリアプリースト"
+    "wh_priest": "ウォーリアプリースト",
+    "pwe_st_bell_intro_c_02": "お前の言葉だ、間抜け。 誰かの死を望むには十分だ。お前かも知れんし、私かも知れん。",
+    "pwe_st_gameplay_seeing_a_Skaven_patrol_stormvermin_12": "黒ネズミだ！準備はいいか、間抜け？",
+    "pes_gk_gameplay_hearing_a_chaos_wizard_leech_01": "聞いたか、仲良しさんたち？…ヒルだ。",
+    "pes_gk_gameplay_killing_a_chaos_warrior_07": "！渾沌の戦士を引っ掻いてやれ。いい殺しっぷりだな、仲間たちよ！",
+    "interaction_action_drink": "飲み物",
+    "interaction_action_grab": "つかむ",
+    "interaction_wine_barrel": "ワイン",
+    "lb_private": "プライベート",
+    "pes_gk_crawl_drunk_buff_wears_off_07": "クルーバーに一杯飲ませてやってくれるか？",
+    "pes_gk_crawl_drunk_knocked_down_02": "誰か、仲間に手を貸してやってくれないか？",
+    "pes_gk_crawl_pub_horde_end_04": "またしても、誇り高きクルーバーと愉快な仲間たちの大勝利である。",
+    "pes_gk_crawl_spot_first_pub_03": "残高にサヨナラだ、仲良しさんたち。あと少しだ。",
+    "pes_gk_crawl_tunnel_passage_04": "ちょうどこの辺りだ、仲良しさんたち。一緒においしい一杯を飲むのが楽しみだ！",
+    "pes_gk_gameplay_killing_a_Skaven_warpfire_thrower_06": "俺たちはみんな仲良しだ。火鼠は死んだぞ。",
+    "pes_gk_gameplay_spots_bomb_21": "弾はここだ、友よ。"
 }
