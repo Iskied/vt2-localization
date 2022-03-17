@@ -352,5 +352,6 @@
     "bardin_ironbreaker_max_stamina": "불요불굴",
     "bardin_ranger_activated_ability_cooldown": "유비무환",
     "bardin_ranger_healing_received": "가압",
-    "bardin_ranger_increased_defence_on_disabled": "웅크리기"
+    "bardin_ranger_increased_defence_on_disabled": "웅크리기",
+    "bardin_ranger_passive_ammo_on_ally_pickup": "나눠라, 같이 나눠라"
 }
