@@ -550,7 +550,7 @@
     "menu_settings_no_dodge": "회피 비활성화",
     "next_upgrade_desc": "상위 등급으로 강화 시 다음과 같이 추가됨 :",
     "new_ui_popup_info": "일관된 사용자 경험을 제공하기 위해 모든 플레이어와 플랫폼을 위한 단일 통합 메뉴 시스템을 구축했습니다. ",
-    "tooltip_low_resolution_transparency": "투명성 해상도\\n\\n투명성 효과의 해상도를 조절합니다.\\n\\n\\n\\n성능 영향: \\n\\nGPU: 중간 CPU: 없음",
+    "tooltip_low_resolution_transparency": "투명성 효과의 해상도를 조절합니다.\\n\\n\\n\\n성능 영향: \\n\\nGPU: 중간 CPU: 없음",
     "tooltip_master_volume": "마스터 볼륨\\n\\n마스터 볼륨을 조절합니다.",
     "tooltip_max_quick_play_search_range": "빠른 플레이 검색 범위\\n\\n빠른 플레이 매치를 호스트하기 전 게임을 탐색하는 거리 범위를 조절합니다.",
     "tooltip_tobii_clean_ui": "UI 지우기\\n\\nUI 요소들을 사라지게 합니다.",
@@ -568,5 +568,9 @@
     "tooltip_max_stacking_frames": "최대 스택 프레임 (고급 설정)\\n\\n드라이버가 프레임레이트를 부드럽게 만들 수 있게 가져올 수 있는 최대 프레임의 양을 설청합니다. \\n\\n\\n\\n낮게 설정하면 프레임이 불안정해지지만 입력 지연이 감소합니다.\\n\\n높게 설정하면 프레임이 부드러워지지만 입력 지연이 증가합니다.\\n\\n\\n\\n프레임이 낮거나 입력 지연이 높다면 이를 낮게 설정하세요. \\n\\n\\n\\n입력 지연이 나타나지 않는다면 이를 자동으로 놓아두세요.",
     "tooltip_tobii_extended_view": "시선 확장\\n\\n눈과 머리를 움직여 게임 카메라를 움직입니다.",
     "tooltip_tobii_extended_view_sensitivity": "시선 확장 민감성 조절\\n\\n카메라가 머리 및 눈의 움직임에 얼마나 빨리 반응하는지 조정합니다",
-    "tooltip_tobii_extended_view_use_head_tracking": "시선 확장 헤드 트래킹\\n\\n시선 확장에 헤드 트래킹을 사용합니다."
+    "tooltip_tobii_extended_view_use_head_tracking": "시선 확장 헤드 트래킹\\n\\n시선 확장에 헤드 트래킹을 사용합니다.",
+    "new_ui_popup_legacy_text": "이전 메뉴는 여전히 설정에서 활성화시킬 수 있습니다. 아래의 영상은 그 방법을 보여드리고 있습니다. *알림 - 이전 메뉴는 더 이상 업데이트나 변경 사항이 없을 것입니다.",
+    "new_ui_popup_perks": "이 새로운 UI는 더욱 쉽게 새로운 것들을 보여주고 이전의 요소들을 개선할 수 있게 해줄 것입니다. 이번 변경사항에선, 이러한 기능들을 추가하였습니다:",
+    "new_ui_popup_perk_list": "한 인터페이스에서 여러개의 인벤토리를 관리\\n*봇 우선순위와 커리어 선택 관리\\n* 착용 중인 장비를 그대로 업그레이드하거나 변경 혹은 환영 적용\\n* 새 메뉴의 모든 사항들을 키보드로 사용 가능\\n* 향상된 임무 선택창 표시\\n* 빈 공간 마련을 위해 증서 삭제 가능\\n   이외 기타 등등...",
+    "popup_update_offline_data_header": "주의사항"
 }
