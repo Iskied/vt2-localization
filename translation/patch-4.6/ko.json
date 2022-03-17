@@ -350,5 +350,6 @@
     "bardin_ironbreaker_max_health": "굳센 동료",
     "bardin_slayer_max_health": "굳센 동료",
     "bardin_ironbreaker_max_stamina": "불요불굴",
-    "bardin_ranger_activated_ability_cooldown": "유비무환"
+    "bardin_ranger_activated_ability_cooldown": "유비무환",
+    "bardin_ranger_healing_received": "압력 적용"
 }
