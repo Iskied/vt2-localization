@@ -175,7 +175,7 @@
     "inventory_screen_weapon_skins_title": "무기 환영",
     "kerillian_maidenguard_slower_heavy_hits": "엘드라조르의 정확성",
     "photomode_only": "감정표현 휠",
-    "description_q1_footknight_bundle": "지그마의 뜻을 전달하러 아라비를 향해 머나먼 여정을 떠났던 기사의 갑주입니다. 상태를 보아하니, 잘 전달되지는 못한 모양이군요.",
+    "description_q1_footknight_bundle": "지그마의 뜻을 전달하러 아라비를 향해 머나먼 여정을 떠났던 기사의 갑주. 상태를 보아하니, 잘 전달되지는 못한 모양이다.",
     "description_q1_wh_captain_bundle": "먼 나라에서 이단자를 추적하기로 결심한 위치 헌터의 제의. 그의 성공(또는 실패)은 제국에 전해지지 않았다.",
     "menu_settings_friendly_fire_crosshair": "아군 오사 십자선",
     "menu_settings_crosshair_kill_confirm": "살해 확인 십자선",
@@ -363,6 +363,6 @@
     "description_q1_ranger_bundle": "왕위를 빼앗기고, 세상의 끝 산맥 속 영원히 되찾을 수 없는 자신의 집을 찾아 떠도는 비운을 맞이했던 어느 왕의 의복. ",
     "description_q1_waywatcher_bundle": "아델 로렌의 미개척지, 굶주린 나무들의 분노가 담긴 고대의 웨이스톤들이 위치한 곳을 감시하는 자.",
     "description_ranger_hat_1005": "세상의 끝 산맥 곳곳마다 인기를 끈 인상적인 모양의 투구. 좁은 문을 지나갈 땐 옆으로 걷는 것이 가장 좋습니다.",
-    "description_skin_dr_ranger_1001": "떠돌이 레인저의 늑대 가죽 갑옷입니다. 아마도 그의 품에서 떠난 것 같습니다. 가장 추운 기후에서도 매우 따뜻합니다.",
+    "description_skin_dr_ranger_1001": "한 떠돌이 레인저의 늑대 가죽 갑옷. 아마도 그가 있던 요새에서 추방된 것 같다. 가장 추운 기후에도 매우 따뜻합니다.",
     "description_skin_es_knight_1001": "표범 기사단의 용맹한 종파에서 창설된 기사단, 그리폰 기사단이 만든 갑옷입니다."
 }
