@@ -354,5 +354,6 @@
     "bardin_ranger_healing_received": "가압",
     "bardin_ranger_increased_defence_on_disabled": "웅크리기",
     "bardin_ranger_passive_ammo_on_ally_pickup": "공평한 분배",
-    "bardin_slayer_debuff_defence_on_crit": "극심한 상처"
+    "bardin_slayer_debuff_defence_on_crit": "극심한 상처",
+    "bardin_slayer_dodge_range": "오는것 봐 봐"
 }
