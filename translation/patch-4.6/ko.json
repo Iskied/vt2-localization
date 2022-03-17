@@ -97,7 +97,7 @@
     "xboxlive_connection_lost_header": "Xbox Live 오류",
     "wh_2h_hammer": "심판자의 대형 망치",
     "weave_endscreen_sec": "초",
-    "vote_weave_requirement_failed": "파티 중 누군가가 '마법의 바람' 확장팩을 보유하지 않았습니다\\n\\n플레이어가 확장팩 미보유:\\n",
+    "vote_weave_requirement_failed": "최소 한 명 이상의 파티원이 '마법의 바람' 확장팩을 소유하지 않았습니다\\n\\n확장팩 미보유 플레이어:\\n",
     "victor_zealot_stun_reduction": "결의의 힘",
     "victor_zealot_stamina_regen": "신성한 인내력",
     "victor_zealot_increased_stamina_from_passive": "꺼지지 않는 열의",
@@ -574,5 +574,9 @@
     "new_ui_popup_perk_list": "한 인터페이스에서 여러개의 인벤토리를 관리\\n*봇 우선순위와 커리어 선택 관리\\n* 착용 중인 장비를 그대로 업그레이드하거나 변경 혹은 환영 적용\\n* 새 메뉴의 모든 사항들을 키보드로 사용 가능\\n* 향상된 임무 선택창 표시\\n* 빈 공간 마련을 위해 증서 삭제 가능\\n   이외 기타 등등...",
     "popup_update_offline_data_header": "주의사항",
     "tooltip_crosshair_kill_confirm": "살해 확인 조준선\\n조준선이 적 처치를 표시합니다.",
-    "tooltip_numeric_ui": "세부적인 UI 활성화\\n체력, 탄약, 대기시간 등의 관련 정보를 수치로 표시 합니다."
+    "tooltip_numeric_ui": "세부적인 UI 활성화\\n체력, 탄약, 대기시간 등의 관련 정보를 수치로 표시합니다.",
+    "upgrade_description_text_exotic": "아이템의 속성 값과 아이템의 파워 레벨이 최대화됩니다.",
+    "upgrade_description_text_common": "아이템에 또 다른 속성이 추가됩니다. 속성 유형 및 해당 값은 랜덤화 되지만 나중에 변경할 수 있습니다.",
+    "upgrade_description_text_plentiful": "아이템에 속성을 추가합니다. 속성 유형 및 해당 값은 랜덤화 되지만 나중에 변경할 수 있습니다.",
+    "upgrade_description_text_rare": "아이템에 특성을 추가합니다. 특성 유형은 랜덤화 되지만 나중에 변경될 수 있습니다."
 }
