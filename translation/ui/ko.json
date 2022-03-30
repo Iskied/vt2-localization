@@ -1788,7 +1788,7 @@
     "achv_cog_crank_kill_ratling_desc": "증기-보조 크랭크 건(Mk II)을 사용해서 래틀링 거너를 15마리 처치하기",
     "es_mace_shield": "철퇴와 방패",
     "display_name_deus_consumable_extra_shot": "모그림의 지략",
-    "description_headhunter": "헤드샷은 다음 공격의 피해를 %.1f% 증가시키며 최대 %.0f회 중첩됩니다. 머리 이외의 다른 부위에 적중 시 %.0f회의 중첩이 제거됩니다.",
+    "description_headhunter": "헤드샷은 다음 공격의 피해를 %.1f%% 증가시키며 최대 %.0f회 중첩됩니다. 머리 이외의 다른 부위에 적중 시 %.0f회의 중첩이 제거됩니다.",
     "display_name_skin_es_mercenary_1001": "엘르켕의 의복",
     "credits_senior_programmer": "시니어 프로그래머",
     "description_scholar_hat_0000": "파이로맨서의 목장식. 양초는 위자드의 인내심이 차고 줆을 나타낸다고 한다. 불이 꺼진다면, 도망쳐라.",
