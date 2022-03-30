@@ -872,9 +872,9 @@
     "pdr_crawl_loud_crash_01": "이런.",
     "pdr_crawl_loud_crash_03": "진짜 이런 소리를 낼 필요가 있는가?",
     "pdr_crawl_loud_crash_04": "거 한번 요란하구먼. 그 정도면 귀머거리랑 죽은 이도 깨울 수 있을 걸세.",
-    "pdr_crawl_old_path_blocked_02": "*더듬거리며* 다위와 발라야 님의 화로의 사이를 갈라놓으시겠다? 어림도 없지.",
+    "pdr_crawl_old_path_blocked_02": "*더듬거림* 다위와 발라야 님의 화로의 사이를 갈라놓으시겠다? 어림도 없지.",
     "pdr_crawl_pub_brazers_03": "거의 다 왔네! 공기에서부터 느껴지지 않는가, 다우리?",
-    "pdr_crawl_pub_destroyed_02": "불쌍한 헬가. 손금 읽기의 예언대로 되어버렸구만. 내가 그 라날드 성직자놈을 잡을 때까지 기다리라고, 다우리!",
+    "pdr_crawl_pub_destroyed_02": "불쌍한 헬가. 손금의 예언대로 되어버렸구만. 내가 그 라날드 성직자놈을 잡을 때까지 기다리게나, 다우리!",
     "pdr_crawl_pub_district_sign_02": "여기 보게나! 온 구역이 에일로 가득하네! 여기라면 뭐라도 찾을 수 있을 걸세, 다우리!",
     "pdr_crawl_get_out_soon_04": "참 잘했군, 다우리. 선술집이 하나 더 무너져버렸군!",
     "pdr_crawl_have_a_drink_02": "조금만 더 힘 내게, 다우리!",
@@ -1207,5 +1207,5 @@
     "achievement_scorpion_runekeeper_description": "모든 비스트맨 룬 찾기",
     "subtitle_name_catrinne": "알덴슈타인의 카트린느",
     "terror_event_power_up_curse_resistance_name": "저주 저항",
-    "achv_collect_tomes_grimoires_all_levels_desc": "모든 임무에서 모든 고서와 금서를 모으시오"
+    "achv_collect_tomes_grimoires_all_levels_desc": "모든 임무에서 고서와 금서를 모두 모으기"
 }
