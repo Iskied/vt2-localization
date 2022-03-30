@@ -566,5 +566,8 @@
     "pwe_st_gameplay_hears_incoming_horde_22": "저게 많은 것 같아? 저건 아무것도 아냐, 핏덩이들아.",
     "matchmaking_status_join_game_failed_network_hash_mismatch": "참가 실패 - 게임 버전이 맞지 않습니다",
     "nfl_holly_level_combat_03": "다들 준비해! 놈들이 너흴 잡으러 오고 있으니!",
-    "collectibles_name": "수집품"
+    "collectibles_name": "수집품",
+    "abilities_pc": "커리어 스킬",
+    "ability_pc": "커리어 스킬",
+    "achievement_scorpion_conqueror_name": "위브 격파자"
 }
