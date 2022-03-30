@@ -1217,7 +1217,7 @@
     "pbw_gameplay_wood_elf_dead_01": "엘프가, 숲으로 돌아가기를.",
     "pbw_gameplay_wood_elf_dead_02": "타오르는 바람이시여,엘프가 죽었어!",
     "pbw_gameplay_wood_elf_dead_03": "웨이와쳐가, 새로운 길을 찾아떠나기를!",
-    "pbw_gameplay_wizard_potions_above_half_health_04_reply_01": "스스로 고쳐버려고? 정신이 이상해진 거 같은데 솔츠파이어. 뭐, 평상시보다 말이야.",
+    "pbw_gameplay_wizard_potions_above_half_health_04_reply_01": "스스로 고쳐보려고? 정신이 이상해진 거 같은데 솔츠파이어. 뭐, 평상시보다 말이야.",
     "pbw_gameplay_wizard_potions_above_half_health_02_reply_05": "뭐? 왜?",
     "pbw_gameplay_wood_elf_grabbed_by_tentacle_01": "당장 엘프를 놔줘! 재 촉수에 잡혔어!",
     "pbw_gameplay_wizard_potions_above_half_health_02_reply_01": "낭비가 아니야! 꼭 필요했어!",
@@ -1225,5 +1225,11 @@
     "pbw_gameplay_wood_elf_grabbed_by_tentacle_04": "촉수가 우리 엘프를 잡았어!",
     "pbw_gameplay_wood_elf_grabbed_by_tentacle_05": "촉수가 커릴리안을 끌고 간다!",
     "pbw_gameplay_wood_elf_low_on_health_01": "커릴리안, 너 심하게 다쳤어.",
-    "pbw_gameplay_wood_elf_low_on_health_02": "안색이 안 좋아 보이는데."
+    "pbw_gameplay_wood_elf_low_on_health_02": "안색이 영 좋지 않은걸.",
+    "pbw_gameplay_wood_elf_low_on_health_03": "치료해, 엘프.",
+    "pbw_gameplay_wood_elf_on_a_frenzy_01": "숫자 세기 힘들거 같은데? 웨이와쳐?",
+    "pbw_gameplay_wood_elf_on_a_frenzy_02": "열정을 시험중인거 같은데, 엘프?",
+    "pbw_gameplay_wood_elf_on_a_frenzy_04": "오늘 불 붙었는걸, 웨이와쳐!",
+    "pbw_gameplay_wood_elf_on_a_frenzy_03": "이번은 꽤 좋은 기록인걸, 엘프!",
+    "pbw_helmgart_military_mid_a_01": "나는 상관없지만, 우리 뭐 때문에 스케이븐을 방해 하는거야?"
 }
