@@ -580,7 +580,7 @@
     "pes_gk_arena_citadel_final_04": "마지막 전투로다! 여제님을 위하여! 타알님을 위하여! 그리고 우버스라이크 5인조를 위하여!",
     "pes_gk_mines_event_start_01": "크루버 경은 데몬의 만찬 따위가 아니로다! 출구를 찾아보게!",
     "pwh_activate_ability_zealot_07": "이교도에게 죽음을, 신성 모독자에게 죽음을, 해수들과 가치 없는 것들에게 죽음을! 지그마의 신성한 빛으로 죽음을! 신성한 정화로다! 내가 너의 부정한 존재를 숙청하리라!",
-    "pwh_activate_ability_zealot_08": "빛이 보이느냐? 보이느냐? 느껴지느냐? 네 영혼을 불태우고 뼈를 으스러뜨리는 지그마의 타오르는 빛이! 죄로 가득찬 영과 육을 불태우고 격퇴하니라! 신성한 정화로다!",
+    "pwh_activate_ability_zealot_08": "빛이 보이느냐? 보이느냐? 느껴지느냐? 네 영혼을 불태우고 뼈를 으스러뜨리는 지그마 님의 타오르는 빛이! 죄로 가득찬 영과 육을 불태우고 격퇴할지니! 신성한 정화로다!",
     "pdr_chaos_war_camp_challenge_reply_c_01": "이제야 다위처럼 말하는군! 무기를 들어라, 카자키'둠! (웃음)",
     "pdr_chaos_war_camp_challenge_reply_c_02": "미친놈이네만 마음에 드는군! 준비 단단히 해라, 와족!",
     "pdr_crawl_end_event_find_good_beer_02": "그건 내 거야, 다우리. 운이 좋으면 나눠줄 수도 있지.",
@@ -591,5 +591,11 @@
     "pdr_bastion_conversation_ten_02": "물론이지! 평범한 사람들은 영웅을 존경한다고. 그러니 나중에 라키한테 맞고 이가 빠졌다면, 잃어버리지 마. 팔면 돈 좀 될거야.",
     "pdr_bastion_conversation_ten_01": "로너가 어떤 가게를 차리려고 하는지 들었어? 우리의 용감한 업적에 대한 기념품을 판다나, 아마도.",
     "pdr_crawl_end_event_keep_running_01": "지금은 속도를 늦추면 안 돼, 다우리!",
-    "pdr_crawl_end_event_waystone_02": "우리가 더 할 건 없어 보이네, 다우리. 이제 떠나야겠어."
+    "pdr_crawl_end_event_waystone_02": "우리가 더 할 건 없어 보이네, 다우리. 이제 떠나야겠어.",
+    "pes_gk_mines_event_start_03": "친우들이여! 탈출구가 필요하네!",
+    "pes_gk_mines_event_start_04": "성배의 이름으로! 함정이로군! 길을 뚫어야 하네!",
+    "pes_gk_morris_arena_survive_01": "호수의 여인님이시여, 저와 함께 하소서!",
+    "pes_gk_morris_arena_survive_02": "호수의 여인님을 위하여!",
+    "achievement_scorpion_conqueror_description": "위브 등급전을 1단부터 40단 까지 완료하기",
+    "pes_gk_mines_event_start_02": "여기 계속 있을 순 없네, 친우들이여! 길을 만들어야 하네!"
 }
