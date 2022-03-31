@@ -862,7 +862,7 @@
     "pbw_gameplay_empire_soldier_low_on_health_03": "하사관, 치료를 명령한다!",
     "pbw_gameplay_empire_soldier_low_on_health_04": "하사관, 너 심하게 다쳤잖아!",
     "pdr_crawl_get_into_third_pub_04": "장담하건데 다위가 에일을 못 마시게 할 수는 없을걸세!",
-    "pdr_crawl_get_out_soon_02": "자르! 여기 계속 머무를 수 없네!",
+    "pdr_crawl_get_out_soon_02": "자르! 여기 계속 머무를 순 없네!",
     "pdr_crawl_have_a_drink_04": "윽! 인간들의 움각이란, 뭐 더 끔찍한것도 봐왔지만 말일세.",
     "pdr_crawl_head_for_first_pub_04": "근처에 다위 선술집이 하나 있지. 뭐, 발라야 님의 사원에 더 가깝지만 말일세, 하지만 에일에 있어선 더 좋을거라네!",
     "pdr_crawl_head_for_second_pub_02": "여기서 탐험 살짝 다녀오는거 좋아하는 사람 있는가? 곧 좋은 전리품을 건질 수 있을걸세.",
@@ -1430,5 +1430,6 @@
     "pbw_gameplay_hearing_a_chaos_warrior_champion_02": "뭔가 들은 것 같은데... 아마 투사일 거야.",
     "pbw_gameplay_hearing_a_chaos_wizard_plague_01": "위치 헌터의 판결처럼 썩은 내가 나는데. 아마 담즙술사일거다.",
     "pbw_gameplay_hearing_a_chaos_wizard_tentacle_02": "근처에 소환사가 있다. 놈이 불탔으면 좋겠는데!",
-    "pbw_gameplay_hearing_a_chaos_wizard_tentacle_04": "들어봐! 소서러가 어둠의 왕국에서 뭘 부른다. 준비해!"
+    "pbw_gameplay_hearing_a_chaos_wizard_tentacle_04": "들어봐! 소서러가 어둠의 왕국에서 뭘 부른다. 준비해!",
+    "pdr_crawl_end_event_keep_running_03": "그만 꾸물거리게! 당장!"
 }
