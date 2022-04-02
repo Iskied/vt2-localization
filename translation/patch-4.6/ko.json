@@ -1902,7 +1902,7 @@
     "pbw_gameplay_overcharge_01": "아아! 바람이 내게 등을 돌렸구나!",
     "pbw_gameplay_overcharge_02": "불꽃이 날 집어삼킨다! 아아아!",
     "pbw_gameplay_overcharge_03": "아! 화염이 내게 등을 돌리다니!",
-    "pbw_gameplay_overcharge_06": "아아아아! 안돼! 화염이 너무 많아!",
+    "pbw_gameplay_overcharge_06": "아아아아! 안돼! 화염이 너무 격해!",
     "pbw_gameplay_overcharge_11": "아쿠쉬의 저주가... 너무 많아!",
     "pbw_gameplay_path_clear_01": "길이 뚫렸어, 자기들!",
     "pbw_gameplay_path_clear_02": "길이 열린 것 같네, 자기들!",
@@ -2012,5 +2012,8 @@
     "nfl_cemetery_skull_location_01": "그 해골이 어디에 가야할 지 알 거 같구나.",
     "nfl_cemetery_skull_location_04": "보이지? 괜히 그 해골을 가지고 다닌게 아니란 걸 알겠느냐?",
     "nfl_cemetery_skull_location_03": "안 보이는 게냐? 해골을 저기 두거라.",
-    "nfl_citadel_intro_01": "드디어! 영원의 성체로구나. 마음껏 놀아보렴, 안될게 뭐있니?"
+    "nfl_citadel_intro_01": "드디어! 영원의 성체로구나. 마음껏 놀아보렴, 안될게 뭐있니?",
+    "pbw_level_skittergate_back_home_response_02": "어우... 앞으로 들어가나 봐라...",
+    "pbw_level_skittergate_back_home_response_03": "으으... 숙녀의 여행길로는별로였어...",
+    "pbw_level_skittergate_back_home_response_04": "으윽... 좀 어지럽네 자기들..."
 }
