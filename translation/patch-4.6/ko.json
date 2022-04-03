@@ -2009,7 +2009,7 @@
     "nfl_cemetery_skull_interaction_04": "여기에 뭔가 있는 게 분명해, 저 머리 좀 보겠니?",
     "nfl_cemetery_skull_placed_01": "바로 그거지. 조심하렴 - 생채기도 내면 안 돼.",
     "nfl_cemetery_skull_placed_03": "예감이 좋구나. 망치치 말렴!",
-    "nfl_cemetery_skull_location_01": "그 해골이 어디에 가야 할 지 알 거 같구나.",
+    "nfl_cemetery_skull_location_01": "그 머리가 어디에 가야 할 지 알 거 같구나.",
     "nfl_cemetery_skull_location_04": "괜히 그 머리를 들고 다닌 게 아닌 걸 알겠지?",
     "nfl_cemetery_skull_location_03": "그것도 모르겠니? 저쪽에 머리를 둬야지.",
     "nfl_citadel_intro_01": "드디어! 영원의 성채로구나. 마음껏 놀아보렴, 안될 게 뭐 있니?",
@@ -2102,5 +2102,6 @@
     "pbw_gameplay_response_35": "걱정해줘서 고맙네.",
     "pbw_gameplay_seeing_a_cairn_gate_03": "순례의 길이 보인다!",
     "pbw_gameplay_seeing_a_chaos_wizard_leech_03": "저기, 라이프리치야!",
-    "pbw_gameplay_seeing_a_faith_coin_01": "오! 순례자의 동전이로군!"
+    "pbw_gameplay_seeing_a_faith_coin_01": "오! 순례자의 동전이로군!",
+    "pes_bastion_conversation_ten_01": "정말 그런 상점을 차릴거라 생각해?"
 }
