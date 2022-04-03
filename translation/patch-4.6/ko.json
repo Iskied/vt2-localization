@@ -2002,14 +2002,14 @@
     "pbw_gameplay_response_163": "기쁜 것 처럼 들리는데.",
     "nfl_cemetery_skull_carry_02": "그 해골을 두고 가지 마렴! 우리가 찾는 것과 연관 있으니!",
     "nfl_cemetery_skull_carry_03": "저 해골은 룬의 묶여있구나, 뭐 왠진 모르겠지만, 나라고 다 아는 건 아니란다.",
-    "nfl_cemetery_skull_placed_04": "저기구나. 둘이 아주 천생연분 같구나. 그러니까. 말이 그렇다는거지.",
+    "nfl_cemetery_skull_placed_04": "저기구나. 둘이 아주 천생연분이야. 그러니까. 말이 그렇다는거지.",
     "nfl_cemetery_skull_carry_04": "저 해골을 두고 가지 마렴. 애들이 저걸 가지고 놀길 원하진 않겠지?",
     "nfl_cemetery_skull_interaction_03": "그 해골이 좀 이상한 거 같구나.",
     "nfl_cemetery_skull_interaction_01": "나만 그런거 같니, 아니면 저 해골이 진짜 좀 이상하게... 변한거냐?",
     "nfl_cemetery_skull_interaction_04": "여기에 뭔가 있는게 분명하구나. 이 해골만 보더라도?",
     "nfl_cemetery_skull_placed_01": "그래 그거란다. 주의하렴 아무것도 손상 시키면 안돼.",
     "nfl_cemetery_skull_placed_03": "왠지 예감이 좋구나. 망치지 마렴!",
-    "nfl_cemetery_skull_location_01": "그 해골이 어디에 가야할 지 알 거 같구나.",
+    "nfl_cemetery_skull_location_01": "그 해골이 어디에 가야 할 지 알 거 같구나.",
     "nfl_cemetery_skull_location_04": "보이지? 괜히 그 해골을 가지고 다닌게 아니란 걸 알겠느냐?",
     "nfl_cemetery_skull_location_03": "안 보이는 게냐? 해골을 저기 두거라.",
     "nfl_citadel_intro_01": "드디어! 영원의 성체로구나. 마음껏 놀아보렴, 안될게 뭐있니?",
@@ -2055,5 +2055,9 @@
     "pwe_gameplay_bright_wizard_being_helped_up_03": "놈들이 몰려온다. 전부 태워버려.",
     "pwe_gameplay_bright_wizard_being_helped_up_04": "나 혼자선 싸울 수 없어, 위자드.",
     "pwe_gameplay_bright_wizard_low_on_health_04": "위자드, 자넨 다른 이들보다 강하잖나.",
-    "pwe_gameplay_bright_wizard_on_a_frenzy_04": "하나 놓쳤더군. 내가 마무리했다."
+    "pwe_gameplay_bright_wizard_on_a_frenzy_04": "하나 놓쳤더군. 내가 마무리했다.",
+    "pes_ameplay_soldier_potions_above_half_health_03_reply_01": "죄송합니다, 나리. 재가 잠시 감정적이었던 거 같습니다.",
+    "pes_archdaemon_response_rebuttal_01": "상관 없어.",
+    "nfl_citadel_intro_02": "영원의 성체에 도착했구나! 이제 진정한 도전이 시작될 거란다!",
+    "nfl_citadel_intro_03": "영원의 성체로구나? 나"
 }
