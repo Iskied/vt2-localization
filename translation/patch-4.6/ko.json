@@ -1628,7 +1628,7 @@
     "pbw_gameplay_helped_by_wood_elf_03": "고마워, 웨이와쳐.",
     "pbw_gameplay_hunter_hit_by_goo_thrice_01": "가는 곳마다 공기를 오염시키네, 솔츠파이어.",
     "pbw_gameplay_hunter_killing_stormfiend_melee_01_reply_01": "차이가 뭔지 안다는걸 들으니 참으로 안심이 되네.",
-    "pbw_gameplay_hunter_misses_bomb_02": "",
+    "pbw_gameplay_hunter_misses_bomb_02": "폭탄이 완전 빗나갔어 솔츠파이어. 은빛 망치회의 정확성이 이 정도라니.",
     "pbw_gameplay_incoming_skaven_rat_ogre_06": "종정이시어, 놈이 온다!",
     "pbw_gameplay_killing_a_chaos_spawn_06": "촉수 괴물이 하나 줄었네!",
     "pbw_gameplay_killing_a_chaos_wizard_leech_01": "라이프리치가 죽었다!",
@@ -2217,5 +2217,13 @@
     "pes_gameplay_another_is_bunnyjumping": "이건 전투야, 춤이 아니라고. 발바닥은 땅에 딱 붙이고 있어!",
     "pes_curse_24": "폴크마의 악취나는 브릿지 같으니!",
     "pes_crawl_tunnel_passage_03": "안돼! 하늘이 무너지고 있어. 아, 잠깐. 그냥 터널이었네.",
-    "curse_khorne_rage_name": "코른의 격노"
+    "curse_khorne_rage_name": "코른의 격노",
+    "pbw_gameplay_seeing_a_standard_bearer_crater_01": "저기! 대군기다!",
+    "pbw_gameplay_seeing_marauder_berserker_04": "롯블러드 광전사다! 다들 준비해!",
+    "pbw_gameplay_seeing_marauder_berserker_03": "타르누스의 곤두선 수염 같으니! 거품 문 놈이다!",
+    "pbw_gameplay_seeing_marauder_berserker_07": "저 북부인은 다른 놈들보다 훨씬 미쳐날뛰네!",
+    "pbw_gameplay_seeing_a_standard_bearer_crater_02": "대군기가 보여!",
+    "pbw_gameplay_seeing_marauder_berserker_02": "거품 문 놈이다, 널 찍어 누르려 할 거야!",
+    "pbw_gameplay_seeing_marauder_berserker_05": "철로 화염에 맞서려는 거냐 광전사? 네 바람대로 해주지.",
+    "pbw_gameplay_seeing_marauder_berserker_06": "춤추려고 왔나, 광전사? 내가 발재간을 좀 가르쳐주지."
 }
