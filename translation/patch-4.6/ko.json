@@ -2652,5 +2652,7 @@
     "pdr_gameplay_dead_end_08": "크룽크할! 막다른 길일세!",
     "pdr_gameplay_dead_end_10": "전문가의 눈으로 봤을 때, 여긴 막다른 길이라네.",
     "pdr_gameplay_dwarf_killing_stormfiend_melee_01_reply_01": "하하, 나는 놈이 오기 전부터, 내가 이길걸 알고 있었다네!",
-    "pwh_gameplay_dwarf_killing_stormfiend_ranged_01_reply_01": "그리고 이게 바로 좋은 쥐인간이기도 하오."
+    "pwh_gameplay_dwarf_killing_stormfiend_ranged_01_reply_01": "그리고 이게 바로 좋은 쥐인간이기도 하오.",
+    "pdr_gameplay_elf_killing_stormfiend_ranged_01": "훌륭한 사격이었어, 커릴리안.",
+    "pwe_ability_still_cooldown_shade_03": "곧, 그림자 위를 걸으리라."
 }
