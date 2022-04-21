@@ -3698,5 +3698,11 @@
     "pes_gameplay_out_of_ammo_crossbow_01": "주머니가 비었어. 도움이 안 되는구만.",
     "achievement_scorpion_prismatic_portents_name": "분광의 징조",
     "achv_bogenhafen_collect_hat_name": "군인의 모자",
-    "achv_bogenhafen_collect_skin_desc": "전리품 상자로부터 보겐하펜의 피부를 얻어내기"
+    "achv_bogenhafen_collect_skin_desc": "전리품 상자로부터 보겐하펜의 피부를 얻어내기",
+    "achv_collect_tomes_grimoires_any_level_desc": "임무에서 모든 고서와 금서 모으기",
+    "achv_collect_tomes_grimoires_all_levels_name": "저주받은 사서",
+    "achv_collect_tomes_grimoires_any_level_name": "금지된 지식의 추적자",
+    "achv_collect_tome_desc": "고서 모으기",
+    "achv_collect_tome_name": "서적 애호가",
+    "achv_complete_daily_quest_amount_1_desc": "일일 퀘스트 %d 완성"
 }
