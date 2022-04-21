@@ -3377,7 +3377,7 @@
     "pes_gameplay_out_of_ammo_02": "끝이야, 더 없어.",
     "achievement_scorpion_restolen_name": "다시 훔치기",
     "achievement_wom_trophies": "마법의 바람 트로피",
-    "achv_bogenhafen_collect_hat_desc": "상자에서 보겐하펜 모자를 습득하기",
+    "achv_bogenhafen_collect_hat_desc": "전리품 상자로부터 보겐하펜 모자 습득하기",
     "pwh_gameplay_hearing_a_globaider_combat_06": "지그마의 폐여! 숨 참게나!",
     "pwh_gameplay_hearing_a_globaider_combat_07": "가스쥐다! 공 조심하도록!",
     "pwh_gameplay_hearing_a_globaider_combat_08": "마스크 쓴 녀석이군, 독을 조심하게!",
@@ -3697,5 +3697,5 @@
     "pes_gameplay_out_of_ammo_04": "젠장 - 탄약이 없구만!",
     "pes_gameplay_out_of_ammo_crossbow_01": "주머니가 비었어. 도움이 안 되는구만.",
     "achievement_scorpion_prismatic_portents_name": "분광의 징조",
-    "achv_bogenhafen_collect_hat_name": "제국군 모자"
+    "achv_bogenhafen_collect_hat_name": "군인의 모자"
 }
