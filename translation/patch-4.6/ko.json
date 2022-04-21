@@ -3712,5 +3712,6 @@
     "achv_complete_daily_quest_amount_1_name": "언제나 준비 완료",
     "achv_complete_level_under_x_damage_taken_desc": "%d보다 적게 피해를 입고 임무 완수하기",
     "quest_weekly_complete_daily_quests_desc": "일간 퀘스트 %d개 완료하기",
-    "weekly_complete_daily_quests_desc": "일간 퀘스트 %d개 완료하기"
+    "weekly_complete_daily_quests_desc": "일간 퀘스트 %d개 완료하기",
+    "achv_equip_all_rare_quality_desc": "모든 창에 레어 아이템 장착하기"
 }
