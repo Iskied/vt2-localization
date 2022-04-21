@@ -3710,5 +3710,7 @@
     "achv_bogenhafen_collect_weapon_skin_name": "뵈겐하펜 강철",
     "achv_collect_grimoire_name": "술술 읽히는 책",
     "achv_complete_daily_quest_amount_1_name": "언제나 준비 완료",
-    "achv_complete_level_under_x_damage_taken_desc": "%d보다 적게 피해를 입고 임무 끝내기"
+    "achv_complete_level_under_x_damage_taken_desc": "%d보다 적게 피해를 입고 임무 완수하기",
+    "quest_weekly_complete_daily_quests_desc": "일간 퀘스트 %d개 완료하기",
+    "weekly_complete_daily_quests_desc": "일간 퀘스트 %d개 완료하기"
 }
