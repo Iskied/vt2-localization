@@ -3719,5 +3719,6 @@
     "achv_gecko_scraps_catacombs_5": "샬리아의 눈물",
     "achv_gecko_scraps_forest_ambush_1": "혹평가 알브레히트",
     "achv_ground_zero_burblespew_tornado_enemies_desc_xb1": "레전드: 헤일스커지의 회오리에 적이 15명 말려들게 하기",
-    "achv_heal_player_x_times_desc": "다른 플레이어를 %d회 치료"
+    "achv_heal_player_x_times_desc": "다른 플레이어를 %d회 치료하기",
+    "achv_kill_chaos_corruptor_sorcerer_amount_1_desc": "라이프 리치 %d명 처치하기"
 }
