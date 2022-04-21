@@ -3377,7 +3377,7 @@
     "pes_gameplay_out_of_ammo_02": "끝이야, 더 없어.",
     "achievement_scorpion_restolen_name": "다시 훔치기",
     "achievement_wom_trophies": "마법의 바람 트로피",
-    "achv_bogenhafen_collect_hat_desc": "전리품 상자로부터 보겐하펜 모자 습득하기",
+    "achv_bogenhafen_collect_hat_desc": "전리품 상자로부터 뵈겐하펜 모자 습득하기",
     "pwh_gameplay_hearing_a_globaider_combat_06": "지그마의 폐여! 숨 참게나!",
     "pwh_gameplay_hearing_a_globaider_combat_07": "가스쥐다! 공 조심하도록!",
     "pwh_gameplay_hearing_a_globaider_combat_08": "마스크 쓴 녀석이군, 독을 조심하게!",
@@ -3698,11 +3698,15 @@
     "pes_gameplay_out_of_ammo_crossbow_01": "주머니가 비었어. 도움이 안 되는구만.",
     "achievement_scorpion_prismatic_portents_name": "분광의 징조",
     "achv_bogenhafen_collect_hat_name": "군인의 모자",
-    "achv_bogenhafen_collect_skin_desc": "전리품 상자로부터 보겐하펜의 피부를 얻어내기",
+    "achv_bogenhafen_collect_skin_desc": "전리품 상자로부터 뵈겐하펜 복장 습득하기",
     "achv_collect_tomes_grimoires_any_level_desc": "임무에서 모든 고서와 금서 모으기",
     "achv_collect_tomes_grimoires_all_levels_name": "저주받은 사서",
     "achv_collect_tomes_grimoires_any_level_name": "금지된 지식의 추적자",
     "achv_collect_tome_desc": "고서 모으기",
     "achv_collect_tome_name": "서적 애호가",
-    "achv_complete_daily_quest_amount_1_desc": "일일 퀘스트 %d 완성"
+    "achv_complete_daily_quest_amount_1_desc": "일일 퀘스트 %d 완성",
+    "achv_bogenhafen_collect_skin_name": "펜란트의 멋쟁이",
+    "achv_bogenhafen_collect_weapon_skin_desc": "전리품 상자로부터 뵈겐하펜 무기 환영 습득하기",
+    "achv_bogenhafen_collect_weapon_skin_name": "뵈겐하펜 강철",
+    "achv_collect_grimoire_name": "술술 읽히는 책"
 }
