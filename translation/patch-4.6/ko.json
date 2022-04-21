@@ -3721,5 +3721,6 @@
     "achv_ground_zero_burblespew_tornado_enemies_desc_xb1": "레전드: 헤일스커지의 회오리에 적이 15명 말려들게 하기",
     "achv_heal_player_x_times_desc": "다른 플레이어를 %d회 치료하기",
     "achv_kill_chaos_corruptor_sorcerer_amount_1_desc": "라이프 리치 %d명 처치하기",
-    "achv_heal_player_x_times_name": "구원자"
+    "achv_heal_player_x_times_name": "구원자",
+    "achv_kill_chaos_corruptor_sorcerer_amount_1_name": "잡았다, 쓰레기들!"
 }
