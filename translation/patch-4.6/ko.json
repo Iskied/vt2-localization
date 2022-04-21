@@ -3713,5 +3713,7 @@
     "achv_complete_level_under_x_damage_taken_desc": "%d보다 적게 피해를 입고 임무 완수하기",
     "quest_weekly_complete_daily_quests_desc": "일간 퀘스트 %d개 완료하기",
     "weekly_complete_daily_quests_desc": "일간 퀘스트 %d개 완료하기",
-    "achv_equip_all_rare_quality_desc": "모든 창에 레어 아이템 장착하기"
+    "achv_equip_all_rare_quality_desc": "모든 창에 레어 아이템 장착하기",
+    "achv_equip_all_rare_quality_name": "황제의 걸맞는 몸가짐",
+    "achv_fort_kill_enemies_cannonball_desc_xb1": "전설: 브라흐센브뤼케의 머리에 대포알을 떨어뜨려 적 25명을 죽이십시오."
 }
