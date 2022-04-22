@@ -1853,7 +1853,7 @@
     "egs_gameplay_changing_target_witch_hunter_02": "이제 널 널 죽일거야, 위치헌터!",
     "egs_gameplay_changing_target_witch_hunter_03": "마법 사용자를 사냥하지, 인간 것아? 지금 지금은 너가 사냥감이야!",
     "egs_gameplay_changing_target_witch_hunter_04": "고통 속에서 죽어, 위치헌터 하하하!",
-    "egs_gameplay_changing_target_witch_hunter_05": "이제 이제 널 죽일거야, 인간 것아!",
+    "egs_gameplay_changing_target_witch_hunter_05": "지금-이제 널 죽일거야, 인간 것아!",
     "egs_gameplay_changing_target_wood_elf_03": "내 주의를 끄는구나, 엘프 것아!",
     "egs_gameplay_changing_target_wood_elf_05": "다음엔 네 차례야, 할망구!",
     "egs_gameplay_changing_target_bright_wizard_03": "이제 네 차례야, 마녀!",
@@ -3797,6 +3797,6 @@
     "pdr_gameplay_out_of_ammo_crossbow_03": "화살통이 비었네!",
     "pdr_gameplay_low_on_health_10": "내 서 있는 동안, 싸울꺼라네!",
     "backend_err_auth_pc": "로그인 오류",
-    "backend_err_disconnected_console": "연결 끊김",
+    "backend_err_disconnected_console": "연결 끊어짐",
     "pbw_level_skittergate_frozen_lake_04": "나에게 저 배들을 불 태워버릴 시간이 있었더라면."
 }
