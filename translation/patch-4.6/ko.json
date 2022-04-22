@@ -3799,5 +3799,6 @@
     "backend_err_auth_pc": "로그인 오류",
     "backend_err_disconnected_console": "연결 끊어짐",
     "pbw_level_skittergate_frozen_lake_04": "나에게 저 배들을 불 태워버릴 시간이 있었더라면.",
-    "backend_err_steam_auth": "스팀 인증 실패"
+    "backend_err_steam_auth": "스팀 인증 실패",
+    "pbw_level_skittergate_gatekeeper_death_02": "저기! 불행은 끝이군. 자 이제... 키스태프를 가져와요, 자기들. 나도 여길 나가고 싶으니깐."
 }
