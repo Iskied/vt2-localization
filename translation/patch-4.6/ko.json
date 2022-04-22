@@ -3798,5 +3798,6 @@
     "pdr_gameplay_low_on_health_10": "내 서 있는 동안, 싸울꺼라네!",
     "backend_err_auth_pc": "로그인 오류",
     "backend_err_disconnected_console": "연결 끊어짐",
-    "pbw_level_skittergate_frozen_lake_04": "나에게 저 배들을 불 태워버릴 시간이 있었더라면."
+    "pbw_level_skittergate_frozen_lake_04": "나에게 저 배들을 불 태워버릴 시간이 있었더라면.",
+    "backend_err_steam_auth": "스팀 인증 실패"
 }
