@@ -3786,5 +3786,14 @@
     "pdr_gameplay_killing_ratling_02": "그림니르의 트름이시야- 래틀링이 죽었다네.",
     "pdr_gameplay_killing_ratling_04": "래틀링 건 하나 줄었다네.",
     "backend_error_topic_console": "오류",
-    "backend_err_achievement_reward_claim": "보상 요구에 실패했습니다."
+    "backend_err_achievement_reward_claim": "보상 청구에 실패했습니다.",
+    "pdr_gameplay_low_on_health_13": "내 서 있는 동안, 싸울꺼라네!",
+    "pdr_gameplay_out_of_ammo_09": "나이! 놈들에게 돌이라도 던저야 할 거 같구먼?",
+    "pdr_gameplay_out_of_ammo_10": "탄약이 떨어졌네. 돌 좀 건네 보게. 놈들에게 던질태니!",
+    "pdr_gameplay_out_of_ammo_crossbow_01": "쇠뇌살이 떨어졌다네!",
+    "pdr_gameplay_out_of_ammo_crossbow_02": "비참한 쇠뇌 같으니 탄이 떨어졌다네.",
+    "pdr_gameplay_out_of_ammo_crossbow_05": "쇠뇌살이 필요하다네, 다우리!",
+    "pdr_gameplay_out_of_ammo_crossbow_04": "화살통이 비었다네!",
+    "pdr_gameplay_out_of_ammo_crossbow_03": "화살통이 비었네!",
+    "pdr_gameplay_low_on_health_10": "내 서 있는 동안, 싸울꺼라네!"
 }
