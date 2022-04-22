@@ -3784,5 +3784,7 @@
     "pdr_gameplay_killing_packmaster_03": "팩마스터 놈이 대가를 치뤘네.",
     "pdr_gameplay_killing_ratling_01": "저 래틀링놈은 더이상 사격을 못할꺼라네.",
     "pdr_gameplay_killing_ratling_02": "그림니르의 트름이시야- 래틀링이 죽었다네.",
-    "pdr_gameplay_killing_ratling_04": "래틀링 건 하나 줄었다네."
+    "pdr_gameplay_killing_ratling_04": "래틀링 건 하나 줄었다네.",
+    "backend_error_topic_console": "오류",
+    "backend_err_achievement_reward_claim": "보상 요구에 실패했습니다."
 }
