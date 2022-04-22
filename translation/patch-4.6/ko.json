@@ -3779,5 +3779,6 @@
     "achv_kill_helmgart_lords_within_time_name": "지옥불을 걷는 듯한 복수",
     "scorpion_weaves_weekly_helmgart_act_1_desc": "헬름가르트 캠페인의 액트 1 완료하기",
     "scorpion_weaves_weekly_helmgart_act_2_desc": "헬름가르트 캠페인의 액트 2 완료하기",
-    "scorpion_weaves_weekly_helmgart_act_3_desc": "헬름가르트 캠페인의 액트 3 완료하기"
+    "scorpion_weaves_weekly_helmgart_act_3_desc": "헬름가르트 캠페인의 액트 3 완료하기",
+    "authentication_denied": "네트워크 인증이 더 이상 유효하지 않습니다."
 }
