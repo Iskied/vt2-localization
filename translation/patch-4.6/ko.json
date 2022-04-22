@@ -3798,7 +3798,8 @@
     "pdr_gameplay_low_on_health_10": "내 서 있는 동안, 싸울꺼라네!",
     "backend_err_auth_pc": "로그인 오류",
     "backend_err_disconnected_console": "연결 끊어짐",
-    "pbw_level_skittergate_frozen_lake_04": "나에게 저 배들을 불 태워버릴 시간이 있었더라면.",
+    "pbw_level_skittergate_frozen_lake_04": "저 배들을 불 태워버릴 시간이 있었다면 좋았을 텐데.",
     "backend_err_steam_auth": "스팀 인증 실패",
-    "pbw_level_skittergate_gatekeeper_death_02": "저기! 불행은 끝이군. 자 이제... 키스태프를 가져와요, 자기들. 나도 여길 나가고 싶으니깐."
+    "pbw_level_skittergate_gatekeeper_death_02": "저기! 불행은 끝이군. 자 이제... 키스태프를 가져와요, 자기들. 나도 여길 나가고 싶으니깐.",
+    "pbw_level_skittergate_gatekeeper_death_01": "결국 별 차이는 없었네. 안 그래? 어차피 죽을건데, 스폰이 되든 말든 말이지. 자 키스태프 챙겨, 자기들"
 }
