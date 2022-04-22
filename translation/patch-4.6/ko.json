@@ -3722,5 +3722,20 @@
     "achv_heal_player_x_times_desc": "다른 플레이어를 %d회 치료하기",
     "achv_kill_chaos_corruptor_sorcerer_amount_1_desc": "라이프 리치 %d명 처치하기",
     "achv_heal_player_x_times_name": "구원자",
-    "achv_kill_chaos_corruptor_sorcerer_amount_1_name": "잡았다, 쓰레기들!"
+    "achv_kill_chaos_corruptor_sorcerer_amount_1_name": "잡았다, 이놈들!",
+    "pdr_gameplay_killing_marauder_berserker_06": "네놈이 버서커라고? 술 두통 마신 사촌 오크리를 만나봐야겠구만!",
+    "pdr_gameplay_killing_marauder_berserker_08": "버서커가 죽었다네, 아니면 자고 있거나? 누가 녀석 좀 발로 한번 차보게나.",
+    "pdr_gameplay_out_of_ammo_12": "나이! 탄약이 없다네.",
+    "pdr_gameplay_no_nearby_teammates_06": "어이! 와족들 같으니! 다들 어디로 간겐가?",
+    "pdr_gameplay_out_of_ammo_11": "보가! 탄약이 떨어졌다네!",
+    "pdr_gameplay_out_of_ammo_firearm_01": "화약이 떨어졌다네!",
+    "pdr_gameplay_no_nearby_teammates_05": "그만 떠돌아다니게!",
+    "pdr_gameplay_killing_marauder_berserker_04": "알겠냐, 바르두미? 고함 따위는 내 강인한 오른팔과 상대도 안된다.",
+    "pdr_gameplay_killing_marauder_berserker_05": "저 버서커놈에게 더이상 생기란 없군, 그렇지 않은가?",
+    "pdr_gameplay_killing_marauder_berserker_07": "내 항상 말하지만 - 도끼로 한 대도 못 때리면 소란 피워봐야 소용 없지.",
+    "achv_kill_chaos_spawn_amount_1_desc": "카오스 스폰 %d마리 처치하기",
+    "achv_kill_chaos_troll_amount_1_desc": "바일 트롤 %d마리 처치하기",
+    "achv_kill_chaos_vortex_sorcerer_1_desc": "블라이트스토머 %d명 처치하기",
+    "achv_kill_helmgart_lords_within_time_desc": "4명의 모든 군주를 %d분 내에 처치하기",
+    "achv_kill_chaos_spawn_amount_1_name": "혐오체 사냥꾼"
 }
