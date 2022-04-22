@@ -3795,5 +3795,7 @@
     "pdr_gameplay_out_of_ammo_crossbow_05": "쇠뇌살이 필요하다네, 다우리!",
     "pdr_gameplay_out_of_ammo_crossbow_04": "화살통이 비었다네!",
     "pdr_gameplay_out_of_ammo_crossbow_03": "화살통이 비었네!",
-    "pdr_gameplay_low_on_health_10": "내 서 있는 동안, 싸울꺼라네!"
+    "pdr_gameplay_low_on_health_10": "내 서 있는 동안, 싸울꺼라네!",
+    "backend_err_auth_pc": "로그인 오류",
+    "backend_err_disconnected_console": "연결 끊김"
 }
