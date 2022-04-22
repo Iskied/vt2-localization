@@ -3724,7 +3724,7 @@
     "achv_heal_player_x_times_name": "구원자",
     "achv_kill_chaos_corruptor_sorcerer_amount_1_name": "잡았다, 이놈들!",
     "pdr_gameplay_killing_marauder_berserker_06": "네놈이 버서커라고? 술 두통 마신 사촌 오크리를 만나봐야겠구만!",
-    "pdr_gameplay_killing_marauder_berserker_08": "버서커가 죽었다네, 아니면 자고 있거나? 누가 녀석 좀 발로 한번 차보게나.",
+    "pdr_gameplay_killing_marauder_berserker_08": "버서커가 죽었다네, 아니면 잠들었거나? 누가 녀석 좀 발로 한번 차보게나.",
     "pdr_gameplay_out_of_ammo_12": "나이! 탄약이 없다네.",
     "pdr_gameplay_no_nearby_teammates_06": "어이! 와족들 같으니! 다들 어디로 간겐가?",
     "pdr_gameplay_out_of_ammo_11": "보가! 탄약이 떨어졌다네!",
@@ -3780,5 +3780,9 @@
     "scorpion_weaves_weekly_helmgart_act_1_desc": "헬름가르트 캠페인의 액트 1 완료하기",
     "scorpion_weaves_weekly_helmgart_act_2_desc": "헬름가르트 캠페인의 액트 2 완료하기",
     "scorpion_weaves_weekly_helmgart_act_3_desc": "헬름가르트 캠페인의 액트 3 완료하기",
-    "authentication_denied": "네트워크 인증이 더 이상 유효하지 않습니다."
+    "authentication_denied": "네트워크 인증 티켓이 더 이상 유효하지 않습니다",
+    "pdr_gameplay_killing_packmaster_03": "팩마스터 놈이 대가를 치뤘네.",
+    "pdr_gameplay_killing_ratling_01": "저 래틀링놈은 더이상 사격을 못할꺼라네.",
+    "pdr_gameplay_killing_ratling_02": "그림니르의 트름이시야- 래틀링이 죽었다네.",
+    "pdr_gameplay_killing_ratling_04": "래틀링 건 하나 줄었다네."
 }
