@@ -4500,7 +4500,7 @@
     "pes_wv_midnight_fog_02": "기습하기 딱 좋은 날씨네. 다른건 딱히.",
     "pes_wv_midnight_storm_01": "아침에 돌아오면 안될까? 너무 끔찍한데.",
     "pes_wv_midnight_storm_02": "대체 어떤 똑똑한 사람이 여기 오자고 했지? 정말 끔찍한 밤이네.",
-    "pes_gameplay_ranger_excels_dodging_01": "계속 움직여 고렉슨! 아직 갈 길이 멀다고!",
+    "pes_gameplay_ranger_excels_dodging_01": "계속 해봐 고렉슨! 한번의 운이 아닌걸 보여줘!",
     "pes_gameplay_ranger_hit_by_goo_thrice_01": "네가 노려지기 쉽나본데, 고렉슨. 더 분발하라고.",
     "pes_gameplay_ranger_is_bunnyjumping_01": "지금 뭐 하는 거야, 바딘?",
     "pes_gameplay_ranger_killing_troll_melee_01": "잘 했어, 바딘!",
@@ -4561,5 +4561,6 @@
     "pes_gameplay_response_164": "대체 나랑 무슨 상관인지 모르겠구만. 날 내버려 두질 않으니 원.",
     "pes_gameplay_response_18": "잡히는 것도 이젠 진저리가 나는구만!",
     "pes_gameplay_response_19": "딱히 날 도와주는 것 같지 않구만, 마녀.",
-    "pes_gameplay_response_26": "넌 내가 안 하는 것처럼 보이나?"
+    "pes_gameplay_response_26": "넌 내가 안 하는 것처럼 보이나?",
+    "pes_gameplay_soldier_killing_stormfiend_melee_01_reply_03": "응, 이제 놈이 내 친구들을 불 태우지 못하겠지, 응?"
 }
