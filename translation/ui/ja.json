@@ -6092,7 +6092,7 @@
     "kerillian_waywatcher_movement_speed_on_taking_damage": "ロエックの恵み",
     "kerillian_waywatcher_movement_speed_on_taking_damage_desc": "ダメージを受けた後、%d秒間だけ移動速度が%.1f%%増加する。",
     "kerillian_waywatcher_passive_cooldown_restore": "精神の矢",
-    "kerillian_waywatcher_passive_cooldown_restore_desc": "「常世の花」の効果が発動するごとに、「真実の矢」のクールダウンが5%減少。代わりに体力が回復しなくなる。",
+    "kerillian_waywatcher_passive_cooldown_restore_desc": "「常世の花」の効果が発動するごとに、「真実の矢」のクールダウンが%.1f%%減少。代わりに体力が回復しなくなる。",
     "kerillian_waywatcher_projectile_ricochet": "跳ね矢",
     "kerillian_waywatcher_projectile_ricochet_desc": "矢が標的に当たるまで最大3回まで跳弾する。",
     "kerillian_waywatcher_projectile_speed": "力の放ち方",
