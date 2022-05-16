@@ -2537,7 +2537,6 @@
     "pbw_gameplay_wood_elf_being_helped_up_08": "上、ケリリアン。道は長い。",
     "pbw_gameplay_wood_elf_being_helped_up_09": "困らせないでくれよ、ケリリアン。上だ！",
     "pbw_gameplay_wood_elf_being_helped_up_10": "倒れすぎだよ、ケリリアン。",
-    "pbw_gameplay_wood_elf_being_helped_up_10": "倒れすぎだよ、ケリリアン。",
     "pbw_gameplay_wood_elf_dead_01": "エルフよ、森へ帰れ。",
     "pbw_gameplay_wood_elf_dead_02": "烈風のごとく、エルフは死んだ！",
     "pbw_gameplay_wood_elf_dead_03": "新しい道を探しなさい、ウェイウォッチャー！",
@@ -4999,5 +4998,8 @@
     "pbw_wv_midnight_fog_02": "謎と殺意に満ちた夜だ 愛しい人よ",
     "pbw_wv_midnight_storm_01": "暗闇を恐れるな 私は光をもたらす",
     "pbw_wv_midnight_storm_02": "不愉快な夜だ",
-    "pbw__comet_conversation_four_01": "エルフの口からマジな言葉が出るのを待ってたんだ。"
+    "pbw__comet_conversation_four_01": "エルフの口からマジな言葉が出るのを待ってたんだ。",
+    "pbw_objective_correct_path_door_03": "このドアにたどり着けるか？",
+    "pbw_woods_conversation_twentythree_01": "あなたの新しい女神、ケリリアンについて…。",
+    "pbw_bless_conversation_eight_01": "もっと悪いかもしれないわ 彼は以前より落ち着いているようだ…彼なりにな"
 }
