@@ -8649,5 +8649,21 @@
     "bardin_ranger_passive_ammo_on_ally_pickup_desc": "아군이 생존주의자의 은닉품을 얻으면 바딘이 탄약을 %.1f%%만큼 받습니다.",
     "bardin_ranger_passive_spawn_healing_draught_desc": "네 번에 한 번씩 생존주의 탄약 대신 폭탄이 떨어집니다.",
     "bardin_ranger_passive_spawn_potions_desc": "세 번에 한 번씩 생존주의 탄약 대신 포션이 떨어집니다.",
-    "bardin_ranger_reduced_spread_desc": "원거리 탄 퍼짐이 %1.f%%만큼 감소합니다."
+    "bardin_ranger_reduced_spread_desc": "원거리 탄 퍼짐이 %1.f%%만큼 감소합니다.",
+    "bardin_slayer_activated_ability_impact_damage_desc": "도약으로 착지할 때 인접한 적에게 주는 경직 효과가 증가합니다.",
+    "bardin_slayer_activated_ability_movement_desc": "바딘이 도약한 후 이동 속도가 %.1f%%만큼 증가합니다.",
+    "bardin_slayer_activated_ability_uninterruptible_desc_2": "도약 후 공격 속도 증가와 함께 지속 시간 중에는 공격이 끊기지 않게 됩니다.",
+    "bardin_slayer_debuff_defence_on_crit_desc": "치명타를 입은 적이 받는 피해량이 늘어납니다.",
+    "bardin_slayer_debuff_defence_on_crit_desc_2": "치명타를 입은 적은 짧은 시간 동안 %.1f%%만큼 받는 피해량이 늘어납니다. 유사 효과와 중첩되지 않습니다.",
+    "bardin_slayer_increased_attack_speed_on_last_standing": "명예로운 죽음",
+    "bardin_slayer_increased_attack_speed_on_last_standing_desc": "바딘이 마지막 남은 영웅일 때, 공격 속도가 %.1f%%만큼 증가합니다.",
+    "bardin_ranger_reload_speed": "전투 준비",
+    "bardin_ranger_reload_speed_desc": "장전 속도가 %.1f%%만큼 증가합니다.",
+    "bardin_regrowth": "마실 만큼 마셨어",
+    "bardin_slayer_activated_ability_uninterruptible_desc": "도약을 사용한 후에 공격이 끊기지 않게 됩니다.",
+    "bardin_slayer_damage_reduction_on_melee_charge_action_desc": "힘을 모아 근접 공격을 하는 동안에 %.1f%%만큼 입는 피해가 감소합니다.",
+    "bardin_slayer_damage_taken_capped_desc": "단일 공격을 맞았을 때, %d 피해량과 원래 피해량의 절반 값 중에 더 높은 값의 피해를 받게 됩니다.",
+    "bardin_slayer_dodge_range_desc": "회피 거리가 %.1f%%만큼 증가합니다.",
+    "bardin_slayer_heal_on_kill": "대학살 축제",
+    "bardin_slayer_heal_on_kill_desc": "적을 처치하면 %d만큼 체력을 회복합니다."
 }
