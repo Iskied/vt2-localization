@@ -4385,7 +4385,7 @@
     "pdr_prologue_heal_bardin_take_time_02": "이런 고마울 데가.",
     "pdr_prologue_kerillian_fight_01": "찾았구먼.",
     "pdr_prologue_meeting_kerillian_01": "올레샤?! 환청이 아니었구먼!",
-    "pdr_prologue_portal_01": "그래, 다시 보니 반갑구먼, 그림기, 근데 상황이... 좀 어색하군.",
+    "pdr_prologue_portal_01": "그래, 다시 보니 반갑구먼, 그림기, 근데 상황이... 좋지 못하군.",
     "pdr_skaven_stronghold_intro_a_01": "내가 원래 잠입하는 놈은 아니다만, 대장놈을 죽이는 건 라키한테 잘 먹히지.",
     "pdr_skaven_stronghold_intro_a_02": "이번엔 우리가 잠입하길 원한다고? 이게 뭐가 재밌단 건가?",
     "pdr_skaven_stronghold_intro_b_01": "라키와 싸우는 게 영광스럽진 않지. 지도자를 죽이면, 끝낼 수 있을 걸세. 좋은 계획이지.",
@@ -4946,5 +4946,16 @@
     "pdr_level_skaven_stronghold_story_ten_03": "주변을 둘러보게. 우리가 봐온 것들을 생각해 보라고. 얼마나 기회가 있겠나.",
     "pdr_level_skaven_stronghold_story_six_01": "나 말인가, 자린? 난 트롤 쪽 전문가라서 말이야. 물론 고보들도, 잘 알지만.",
     "pdr_level_skittergate_story_nine_01": "그래, 한두 개 정도. 대부분 카자키'둠에게 빼앗겼지.",
-    "pdr_level_skittergate_story_nine_02": "그래, 그 부근에 워낙에 정신 나간 것들이 많으니. 우리 일족 중에 그런 위험을 무릅쓰려는 사람은 많지 않아."
+    "pdr_level_skittergate_story_nine_02": "그래, 그 부근에 워낙에 정신 나간 것들이 많으니. 우리 일족 중에 그런 위험을 무릅쓰려는 사람은 많지 않아.",
+    "pdr_level_fort_clear_courtyard_02": "더 싸울수 있나,카자키'둠? 좋아!",
+    "pdr_level_fort_complete_02": "이제 이 기지는 안전할걸세, 다우리. 곧 지원군이 올게야.",
+    "pdr_prologue_portal_d_01": "싸워서 탈출하는게 뭐 어떻단 겐가? 고작 스케이븐 수천마리 뿐일텐데 말이지.",
+    "pdr_level_fort_complete_04": "이제 우리 없이도 이 요새는 버틸수 있을걸세, 십일조만 아니라면 말이지. 에일이나 진탕 마시고 싶군.",
+    "pdr_level_fort_clear_courtyard_01": "아무래도 카자키'둠이 더 놀고 싶은가 보군.",
+    "pdr_level_fort_clear_courtyard_03": "이 안뜰 청소는 꽤 힘들거 같구먼.",
+    "pdr_level_fort_clear_courtyard_04": "오호! 북부 놈들이 아직도 싸움을 원하는 것 같군!",
+    "pdr_level_fort_complete_01": "굳이 얘기한다면, 또 한번 잘 해낸 거 같군.",
+    "pdr_level_fort_complete_03": "요새도 안전하고, 정의의 일격도 퍼부어줬군. 보람찬 하루 였다네.",
+    "pdr_prologue_gorreksson_e_02": "그림니르의 수염이시여! 그만 불평하고 여기서 좀 내려주게!",
+    "pdr_prologue_portal_b_01": "그림기! 싱싱하게 살아있었구먼!"
 }
